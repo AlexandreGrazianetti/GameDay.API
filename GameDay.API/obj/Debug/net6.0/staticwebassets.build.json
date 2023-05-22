@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fQ6mmnysdadIQd6bZ/mJ9nkrnq6FEEm9VRDPrAKgXMA=",
+  "Source": "GameDay.API",
+  "BasePath": "_content/GameDay.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
